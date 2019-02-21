@@ -13,8 +13,9 @@ class TestController extends Controller {
 			dataType: 'json',
 		})
 		
-		this.ctx.body = this.ctx.helper.test();
+		this.ctx.body = this.app.bar;
 	}
+	
 }
 
 module.exports = TestController;

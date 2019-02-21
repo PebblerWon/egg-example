@@ -174,7 +174,10 @@
     "license": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
       "egg": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
-      "egg-view-nunjucks": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+      "egg-mysql": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-socket.io": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "formstream": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "egg-bin": "C:\\Users\\Administrator.USER-20161125ZU\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",

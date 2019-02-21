@@ -4,7 +4,7 @@ module.exports = app => {
 	router.get('/news', controller.news.list);
 	router.get('/test', controller.test.test);
 	router.get('/name', controller.sub.name.name);
-
+	router.get('/httpClient/writeStream', controller.httpClient.writeStream);
 	/*
 	* RESTFUL风格路由
 	*/
